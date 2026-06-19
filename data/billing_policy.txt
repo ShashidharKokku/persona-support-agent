@@ -1,0 +1,66 @@
+BILLING POLICY & SUPPORT GUIDE
+================================
+
+SUBSCRIPTION PLANS
+------------------
+Basic Plan:     $9/month  — 10,000 API calls, email support, 99.5% uptime SLA
+Pro Plan:       $49/month — 100,000 API calls, priority support, 99.9% uptime SLA
+Enterprise:     Custom pricing — Unlimited calls, dedicated support, 99.99% uptime SLA
+
+All plans are billed monthly. Annual billing available at 20% discount.
+
+REFUND POLICY
+-------------
+- Refunds are processed within 5–7 business days to your original payment method
+- Duplicate charges are identified automatically and refunded within 2 business days
+- Partial refunds are available for unused days if you downgrade mid-cycle
+- No refunds are issued for accounts suspended due to Terms of Service violations
+
+HOW TO REQUEST A REFUND
+------------------------
+1. Log in to your account dashboard
+2. Navigate to Billing > Transaction History
+3. Click "Dispute" next to the relevant charge
+4. Fill in the reason and submit
+5. You will receive a confirmation email within 24 hours
+6. Alternatively, email billing@support.com with your invoice number
+
+BILLING DISPUTES
+----------------
+To dispute a charge:
+- Contact billing@support.com within 60 days of the charge
+- Include your account email, invoice number, and a brief description
+- Our billing team will investigate and respond within 3 business days
+- If a chargeback is filed with your bank, account access may be temporarily suspended
+
+PAYMENT METHODS
+---------------
+Accepted: Visa, Mastercard, American Express, PayPal, Bank Transfer (Enterprise only)
+All transactions are encrypted using PCI-DSS Level 1 compliant systems.
+
+INVOICE & RECEIPTS
+------------------
+- Invoices are automatically emailed on your billing date each month
+- Download past invoices from Billing > Invoice History in your dashboard
+- VAT invoices available for EU customers — update your VAT number in account settings
+
+PLAN UPGRADES & DOWNGRADES
+---------------------------
+- Upgrades take effect immediately; you are charged a prorated amount
+- Downgrades take effect at the end of your current billing cycle
+- Cancellations: Cancel anytime; access continues until the end of the paid period
+
+OPERATIONAL UPTIME & SLA
+--------------------------
+- We target 99.9% uptime on Pro and above plans
+- Scheduled maintenance is communicated 48 hours in advance via email
+- SLA credits are issued automatically if uptime falls below the guarantee
+- Credit amount: 10% of monthly fee per hour of excess downtime, capped at 30%
+
+ENTERPRISE BILLING
+------------------
+Enterprise customers receive:
+- Dedicated account manager
+- Custom invoicing and NET-30/NET-60 payment terms
+- Volume discounts starting at 100,000 API calls/month
+- Contact sales@ourplatform.com for custom quotes and contracts
